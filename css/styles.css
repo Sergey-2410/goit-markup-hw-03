@@ -124,8 +124,7 @@ img {
 
 .section-header {
   background-color: #2e2f42;
-  padding-top: 188px;
-  padding-bottom: 188px;
+  padding: 188px 0;
 }
 
 .button {
@@ -280,6 +279,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .portfolio-content {
   font-size: 16px;
