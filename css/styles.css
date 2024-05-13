@@ -124,6 +124,8 @@ img {
 
 .section-header {
   background-color: #2e2f42;
+}
+.solution-conteiner {
   padding: 188px 0;
 }
 .button {
@@ -140,6 +142,15 @@ img {
   height: 56px;
   border: none;
   border-radius: 4px;
+}
+.button-style {
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  background-color: #4d5ae5;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 .button:hover {
