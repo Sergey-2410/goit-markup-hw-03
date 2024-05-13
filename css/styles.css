@@ -124,10 +124,10 @@ img {
 
 .section-header {
   background-color: #2e2f42;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
-.solution-conteiner {
-  padding: 188px 0;
-}
+
 .button {
   background-color: #4d5ae5;
   cursor: pointer;
