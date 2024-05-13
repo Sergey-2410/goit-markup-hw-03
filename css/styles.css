@@ -119,12 +119,12 @@ img {
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-  padding: 188px 0;
   max-width: 496px;
 }
 
 .section-header {
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 .button {
   font-family: "Roboto", sans-serif;
