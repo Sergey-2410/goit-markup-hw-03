@@ -312,6 +312,8 @@ img {
 }
 .studio-footer {
   color: #f4f4fd;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .text-footer {
   line-height: 1.5;
